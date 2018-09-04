@@ -15,3 +15,14 @@ p {
   font-family: Lato, sans-serif;
   color: #0c0c0c;
 }
+  
+.management img{
+  float: left;
+  padding-right: 1em;
+  
+}
+
+.management p{
+  clear:both;
+  padding-top: .25em;
+}
